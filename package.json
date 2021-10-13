@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "grommet": "^2.16.2",
     "grommet-icons": "^4.5.0",
     "react": "^16.6.1",
